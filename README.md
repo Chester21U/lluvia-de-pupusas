@@ -4,12 +4,12 @@ Mini-juego 2D en **Python + Pygame** desarrollado con la técnica de **vibecodin
 
 | | |
 |---|---|
-| **Estudiante** | Abraham Bladimir Umanzor Vásquez |
-| **Carnet** | SMSS201426 |
-| **Asignatura** | Programación Computacional III |
-| **Catedrático** | Willian Alexis Montes Giron |
-| **Universidad** | Universidad Gerardo Barrios — Facultad de Ciencias y Tecnología |
-| **Actividad** | Semana 2 – Vibecoding: Desarrollo de una aplicación o mini-juego con IA como copiloto |
+| **Participante** | Abraham Bladimir Umanzor Vásquez |
+| **Programa** | Bootcamp AI for Developers |
+| **Institución** | Kodigo |
+| **Módulo** | Semana 2 – Vibecoding |
+| **Actividad** | Vibecoding guiado: desarrollo de una aplicación o mini-juego con IA como copiloto |
+| **Modalidad** | Individual |
 
 ![Menú principal](docs/capturas/01_menu.png)
 
